@@ -18,9 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
+
   .eisenhower-wraper { 
    text-align: center;
   }
+  
 }
 .centered-element {
   display: block;
